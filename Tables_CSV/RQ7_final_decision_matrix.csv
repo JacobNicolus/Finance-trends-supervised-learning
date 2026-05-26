@@ -1,0 +1,5 @@
+Criterion,Logistic Regression,Random Forest,Gradient Boosting
+Predictive Performance,3,5,5
+Interpretability,5,3,2
+Robustness,3,5,4
+Deployment Suitability,5,4,3

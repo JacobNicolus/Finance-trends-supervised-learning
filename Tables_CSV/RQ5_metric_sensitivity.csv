@@ -1,0 +1,5 @@
+Model,Accuracy_Rank,Precision_Rank,Recall_Rank,F1_Score_Rank
+Logistic Regression,2.5,2.5,2.5,2.5
+Decision Tree,2.5,2.5,2.5,2.5
+Random Forest,2.5,2.5,2.5,2.5
+Gradient Boosting,2.5,2.5,2.5,2.5

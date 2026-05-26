@@ -1,0 +1,3 @@
+Strategy,Accuracy,Precision,Recall,F1_Score
+Raw,1.0,1.0,1.0,1.0
+Scaling,1.0,1.0,1.0,1.0
